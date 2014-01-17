@@ -21,6 +21,25 @@
 		001A61251888BB02002263E7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 001A61071888BB02002263E7 /* UIKit.framework */; };
 		001A612D1888BB02002263E7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 001A612B1888BB02002263E7 /* InfoPlist.strings */; };
 		001A612F1888BB03002263E7 /* TmapTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 001A612E1888BB02002263E7 /* TmapTestTests.m */; };
+		001A61621888BC1B002263E7 /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 001A613C1888BC1B002263E7 /* desktop.ini */; };
+		001A61631888BC1B002263E7 /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 001A613F1888BC1B002263E7 /* desktop.ini */; };
+		001A61641888BC1B002263E7 /* desktop.ini in Resources */ = {isa = PBXBuildFile; fileRef = 001A61541888BC1B002263E7 /* desktop.ini */; };
+		001A61651888BC1B002263E7 /* HeadingAngleSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61551888BC1B002263E7 /* HeadingAngleSmall.png */; };
+		001A61661888BC1B002263E7 /* HeadingAngleSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61561888BC1B002263E7 /* HeadingAngleSmall@2x.png */; };
+		001A61671888BC1B002263E7 /* icon_clustering.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61571888BC1B002263E7 /* icon_clustering.png */; };
+		001A61681888BC1B002263E7 /* icon_clustering@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61581888BC1B002263E7 /* icon_clustering@2x.png */; };
+		001A61691888BC1B002263E7 /* mapbg_tlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61591888BC1B002263E7 /* mapbg_tlogo.png */; };
+		001A616A1888BC1B002263E7 /* mapbg_tlogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615A1888BC1B002263E7 /* mapbg_tlogo@2x.png */; };
+		001A616B1888BC1B002263E7 /* poweredby.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615B1888BC1B002263E7 /* poweredby.png */; };
+		001A616C1888BC1B002263E7 /* poweredby@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615C1888BC1B002263E7 /* poweredby@2x.png */; };
+		001A616D1888BC1B002263E7 /* TrackingDot.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615D1888BC1B002263E7 /* TrackingDot.png */; };
+		001A616E1888BC1B002263E7 /* TrackingDot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615E1888BC1B002263E7 /* TrackingDot@2x.png */; };
+		001A616F1888BC1B002263E7 /* TrackingDotHalo.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A615F1888BC1B002263E7 /* TrackingDotHalo.png */; };
+		001A61701888BC1B002263E7 /* TrackingDotHalo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 001A61601888BC1B002263E7 /* TrackingDotHalo@2x.png */; };
+		001A61711888BC1B002263E7 /* libskpMap_OP-iOS7.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 001A61611888BC1B002263E7 /* libskpMap_OP-iOS7.0.a */; };
+		001A61731888BF3E002263E7 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 001A61721888BF3E002263E7 /* CoreLocation.framework */; };
+		001A61751888BF4C002263E7 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 001A61741888BF4C002263E7 /* QuartzCore.framework */; };
+		001A61821888E9AD002263E7 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 001A61811888E9AD002263E7 /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +72,46 @@
 		001A612A1888BB02002263E7 /* TmapTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TmapTestTests-Info.plist"; sourceTree = "<group>"; };
 		001A612C1888BB02002263E7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		001A612E1888BB02002263E7 /* TmapTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TmapTestTests.m; sourceTree = "<group>"; };
+		001A613C1888BC1B002263E7 /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		001A613E1888BC1B002263E7 /* BizCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BizCategory.h; sourceTree = "<group>"; };
+		001A613F1888BC1B002263E7 /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		001A61401888BC1B002263E7 /* TMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMap.h; sourceTree = "<group>"; };
+		001A61411888BC1B002263E7 /* TMapAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapAnnotation.h; sourceTree = "<group>"; };
+		001A61421888BC1B002263E7 /* TMapBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapBaseView.h; sourceTree = "<group>"; };
+		001A61431888BC1B002263E7 /* TMapCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapCircle.h; sourceTree = "<group>"; };
+		001A61441888BC1B002263E7 /* TMapGpsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapGpsManager.h; sourceTree = "<group>"; };
+		001A61451888BC1B002263E7 /* TMapKatec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapKatec.h; sourceTree = "<group>"; };
+		001A61461888BC1B002263E7 /* TMapLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapLayer.h; sourceTree = "<group>"; };
+		001A61471888BC1B002263E7 /* TMapMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarker.h; sourceTree = "<group>"; };
+		001A61481888BC1B002263E7 /* TMapMarkerItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarkerItem.h; sourceTree = "<group>"; };
+		001A61491888BC1B002263E7 /* TMapMarkerItem2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapMarkerItem2.h; sourceTree = "<group>"; };
+		001A614A1888BC1B002263E7 /* TMapObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapObject.h; sourceTree = "<group>"; };
+		001A614B1888BC1B002263E7 /* TMapPathData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPathData.h; sourceTree = "<group>"; };
+		001A614C1888BC1B002263E7 /* TMapPOIItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPOIItem.h; sourceTree = "<group>"; };
+		001A614D1888BC1B002263E7 /* TMapPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPoint.h; sourceTree = "<group>"; };
+		001A614E1888BC1B002263E7 /* TMapPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPolygon.h; sourceTree = "<group>"; };
+		001A614F1888BC1B002263E7 /* TMapPolyLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapPolyLine.h; sourceTree = "<group>"; };
+		001A61501888BC1B002263E7 /* TMapTapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapTapi.h; sourceTree = "<group>"; };
+		001A61511888BC1B002263E7 /* TMapType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapType.h; sourceTree = "<group>"; };
+		001A61521888BC1B002263E7 /* TMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMapView.h; sourceTree = "<group>"; };
+		001A61541888BC1B002263E7 /* desktop.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = desktop.ini; sourceTree = "<group>"; };
+		001A61551888BC1B002263E7 /* HeadingAngleSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeadingAngleSmall.png; sourceTree = "<group>"; };
+		001A61561888BC1B002263E7 /* HeadingAngleSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HeadingAngleSmall@2x.png"; sourceTree = "<group>"; };
+		001A61571888BC1B002263E7 /* icon_clustering.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_clustering.png; sourceTree = "<group>"; };
+		001A61581888BC1B002263E7 /* icon_clustering@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_clustering@2x.png"; sourceTree = "<group>"; };
+		001A61591888BC1B002263E7 /* mapbg_tlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapbg_tlogo.png; sourceTree = "<group>"; };
+		001A615A1888BC1B002263E7 /* mapbg_tlogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mapbg_tlogo@2x.png"; sourceTree = "<group>"; };
+		001A615B1888BC1B002263E7 /* poweredby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poweredby.png; sourceTree = "<group>"; };
+		001A615C1888BC1B002263E7 /* poweredby@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poweredby@2x.png"; sourceTree = "<group>"; };
+		001A615D1888BC1B002263E7 /* TrackingDot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrackingDot.png; sourceTree = "<group>"; };
+		001A615E1888BC1B002263E7 /* TrackingDot@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TrackingDot@2x.png"; sourceTree = "<group>"; };
+		001A615F1888BC1B002263E7 /* TrackingDotHalo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrackingDotHalo.png; sourceTree = "<group>"; };
+		001A61601888BC1B002263E7 /* TrackingDotHalo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TrackingDotHalo@2x.png"; sourceTree = "<group>"; };
+		001A61611888BC1B002263E7 /* libskpMap_OP-iOS7.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libskpMap_OP-iOS7.0.a"; sourceTree = "<group>"; };
+		001A61721888BF3E002263E7 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		001A61741888BF4C002263E7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		001A61801888E9AD002263E7 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		001A61811888E9AD002263E7 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +119,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				001A61751888BF4C002263E7 /* QuartzCore.framework in Frameworks */,
+				001A61731888BF3E002263E7 /* CoreLocation.framework in Frameworks */,
 				001A61061888BB02002263E7 /* CoreGraphics.framework in Frameworks */,
 				001A61081888BB02002263E7 /* UIKit.framework in Frameworks */,
+				001A61711888BC1B002263E7 /* libskpMap_OP-iOS7.0.a in Frameworks */,
 				001A61041888BB02002263E7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -82,6 +144,9 @@
 		001A60F71888BB02002263E7 = {
 			isa = PBXGroup;
 			children = (
+				001A61801888E9AD002263E7 /* DetailViewController.h */,
+				001A61811888E9AD002263E7 /* DetailViewController.m */,
+				001A613B1888BC1B002263E7 /* lib */,
 				001A61091888BB02002263E7 /* TmapTest */,
 				001A61281888BB02002263E7 /* TmapTestTests */,
 				001A61021888BB02002263E7 /* Frameworks */,
@@ -101,6 +166,8 @@
 		001A61021888BB02002263E7 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				001A61741888BF4C002263E7 /* QuartzCore.framework */,
+				001A61721888BF3E002263E7 /* CoreLocation.framework */,
 				001A61031888BB02002263E7 /* Foundation.framework */,
 				001A61051888BB02002263E7 /* CoreGraphics.framework */,
 				001A61071888BB02002263E7 /* UIKit.framework */,
@@ -150,6 +217,65 @@
 				001A612B1888BB02002263E7 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		001A613B1888BC1B002263E7 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				001A613C1888BC1B002263E7 /* desktop.ini */,
+				001A613D1888BC1B002263E7 /* Headers */,
+				001A61531888BC1B002263E7 /* Images */,
+				001A61611888BC1B002263E7 /* libskpMap_OP-iOS7.0.a */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		001A613D1888BC1B002263E7 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				001A613E1888BC1B002263E7 /* BizCategory.h */,
+				001A613F1888BC1B002263E7 /* desktop.ini */,
+				001A61401888BC1B002263E7 /* TMap.h */,
+				001A61411888BC1B002263E7 /* TMapAnnotation.h */,
+				001A61421888BC1B002263E7 /* TMapBaseView.h */,
+				001A61431888BC1B002263E7 /* TMapCircle.h */,
+				001A61441888BC1B002263E7 /* TMapGpsManager.h */,
+				001A61451888BC1B002263E7 /* TMapKatec.h */,
+				001A61461888BC1B002263E7 /* TMapLayer.h */,
+				001A61471888BC1B002263E7 /* TMapMarker.h */,
+				001A61481888BC1B002263E7 /* TMapMarkerItem.h */,
+				001A61491888BC1B002263E7 /* TMapMarkerItem2.h */,
+				001A614A1888BC1B002263E7 /* TMapObject.h */,
+				001A614B1888BC1B002263E7 /* TMapPathData.h */,
+				001A614C1888BC1B002263E7 /* TMapPOIItem.h */,
+				001A614D1888BC1B002263E7 /* TMapPoint.h */,
+				001A614E1888BC1B002263E7 /* TMapPolygon.h */,
+				001A614F1888BC1B002263E7 /* TMapPolyLine.h */,
+				001A61501888BC1B002263E7 /* TMapTapi.h */,
+				001A61511888BC1B002263E7 /* TMapType.h */,
+				001A61521888BC1B002263E7 /* TMapView.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		001A61531888BC1B002263E7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				001A61541888BC1B002263E7 /* desktop.ini */,
+				001A61551888BC1B002263E7 /* HeadingAngleSmall.png */,
+				001A61561888BC1B002263E7 /* HeadingAngleSmall@2x.png */,
+				001A61571888BC1B002263E7 /* icon_clustering.png */,
+				001A61581888BC1B002263E7 /* icon_clustering@2x.png */,
+				001A61591888BC1B002263E7 /* mapbg_tlogo.png */,
+				001A615A1888BC1B002263E7 /* mapbg_tlogo@2x.png */,
+				001A615B1888BC1B002263E7 /* poweredby.png */,
+				001A615C1888BC1B002263E7 /* poweredby@2x.png */,
+				001A615D1888BC1B002263E7 /* TrackingDot.png */,
+				001A615E1888BC1B002263E7 /* TrackingDot@2x.png */,
+				001A615F1888BC1B002263E7 /* TrackingDotHalo.png */,
+				001A61601888BC1B002263E7 /* TrackingDotHalo@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +354,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				001A61671888BC1B002263E7 /* icon_clustering.png in Resources */,
+				001A61701888BC1B002263E7 /* TrackingDotHalo@2x.png in Resources */,
+				001A61631888BC1B002263E7 /* desktop.ini in Resources */,
+				001A616F1888BC1B002263E7 /* TrackingDotHalo.png in Resources */,
+				001A61641888BC1B002263E7 /* desktop.ini in Resources */,
+				001A61651888BC1B002263E7 /* HeadingAngleSmall.png in Resources */,
 				001A611C1888BB02002263E7 /* Images.xcassets in Resources */,
+				001A61681888BC1B002263E7 /* icon_clustering@2x.png in Resources */,
+				001A616A1888BC1B002263E7 /* mapbg_tlogo@2x.png in Resources */,
 				001A610E1888BB02002263E7 /* InfoPlist.strings in Resources */,
+				001A61691888BC1B002263E7 /* mapbg_tlogo.png in Resources */,
+				001A616E1888BC1B002263E7 /* TrackingDot@2x.png in Resources */,
+				001A616D1888BC1B002263E7 /* TrackingDot.png in Resources */,
+				001A61661888BC1B002263E7 /* HeadingAngleSmall@2x.png in Resources */,
+				001A616C1888BC1B002263E7 /* poweredby@2x.png in Resources */,
+				001A616B1888BC1B002263E7 /* poweredby.png in Resources */,
 				001A61171888BB02002263E7 /* Main.storyboard in Resources */,
+				001A61621888BC1B002263E7 /* desktop.ini in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +393,7 @@
 				001A611A1888BB02002263E7 /* ViewController.m in Sources */,
 				001A61141888BB02002263E7 /* AppDelegate.m in Sources */,
 				001A61101888BB02002263E7 /* main.m in Sources */,
+				001A61821888E9AD002263E7 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,7 +522,37 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TmapTest/TmapTest-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/BizCategory.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/desktop.ini\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMap.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapAnnotation.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapBaseView.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapCircle.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapGpsManager.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapKatec.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapLayer.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarker.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarkerItem.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarkerItem2.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapObject.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPathData.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPOIItem.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPoint.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPolygon.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPolyLine.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapTapi.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapType.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapView.h\"",
+				);
 				INFOPLIST_FILE = "TmapTest/TmapTest-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/sdt-1/Documents/project/TmapTest/lib",
+				);
+				OTHER_LDFLAGS = "-ObjC-all_load";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -393,7 +565,37 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TmapTest/TmapTest-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/BizCategory.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/desktop.ini\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMap.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapAnnotation.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapBaseView.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapCircle.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapGpsManager.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapKatec.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapLayer.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarker.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarkerItem.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapMarkerItem2.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapObject.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPathData.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPOIItem.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPoint.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPolygon.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapPolyLine.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapTapi.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapType.h\"",
+					"\"$(SRCROOT)/../../../Downloads/[iOS]TmapSDK_배포압축용_1/lib/Headers/TMapView.h\"",
+				);
 				INFOPLIST_FILE = "TmapTest/TmapTest-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/sdt-1/Documents/project/TmapTest/lib",
+				);
+				OTHER_LDFLAGS = "-ObjC-all_load";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
